@@ -1,0 +1,6 @@
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\bin\Debug\Lucky7.exe
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\obj\Debug\Lucky7.exe
+\\Mac\Dropbox\KdG\JAAR $\programmeren 2 dotNet\2 C# fundamentals\oefeningen\Prak_Lucky7\Lucky7\obj\Debug\Lucky7.pdb
